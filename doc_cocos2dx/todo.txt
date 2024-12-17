@@ -1,0 +1,19 @@
+cpp-empty-test.vcxproj
+<Import> problem
+
+    <Import Project="..\..\..\cocos\2d\cocos2dx.props" />
+    <Import Project="..\..\..\cocos\2d\cocos2d_headers.props" />
+    
+remove it???
+    
+-----------------------
+
+..\..\..\cocos\2d\libcocos2d.vcxproj
+
+    
+    
+---------------------
+
+remove include path, lib path
+
+--------------------

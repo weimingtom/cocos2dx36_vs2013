@@ -1,0 +1,4 @@
+https://github.com/weimingtom/eriri/blob/master/rubysdl/jni/freetype/Android.mk
+
+(baidupan) onscripter_android.tar.gz
+(baidupan) cocos2d-x-3.6_hello_v8_migrate_min_not_test_android.rar

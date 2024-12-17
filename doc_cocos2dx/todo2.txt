@@ -1,0 +1,5 @@
+remove:
+	3d
+	audio
+	flatbuffers
+	

@@ -1,0 +1,52 @@
+(x) freetype250.lib -> freetype.lib
+(x) libjpeg.lib
+(x) glew32.lib -> glew.lib
+(x) onig_s.d.lib
+
+-----
+
+libcmt.lib;
+<IgnoreSpecificDefaultLibraries>libcmtd.lib;
+
+-----
+
+MSVCP100D.dll
+MSVCR100D.dll
+
+remove libcocos2d.dll
+remove pthreadVC2.dll
+
+-----
+
+debug version
+->
+release version
+
+build release
+
+--------
+
+clear warning
+
+---------
+
+close window crash bug
+
+---------
+
+.gitignore
+
+
+---------
+
+vendor/
+
+---------
+
+cocos2d-x, resource, *.csb   
+
+-------
+
+remove project include/lib not used path
+remove xcopy
+
